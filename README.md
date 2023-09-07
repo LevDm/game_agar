@@ -1,3 +1,6 @@
+[Доступ к игре](https://levdm.github.io/game_agar/)
+
+
 [Phaser Editor 2D version 3](https://phasereditor2d.com)
 
 ## Install
